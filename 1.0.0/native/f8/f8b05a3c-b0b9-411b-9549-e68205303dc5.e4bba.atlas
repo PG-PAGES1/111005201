@@ -1,0 +1,251 @@
+
+symbolwin.jpg
+size: 1984,1331
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lattice_animation/wh_vfx_c_screen_00
+  rotate: false
+  xy: 458, 1058
+  size: 246, 272
+  orig: 280, 280
+  offset: 17, 4
+  index: -1
+lattice_animation/wh_vfx_c_screen_01
+  rotate: false
+  xy: 1, 249
+  size: 246, 272
+  orig: 280, 280
+  offset: 17, 4
+  index: -1
+lattice_animation/wh_vfx_c_screen_02
+  rotate: false
+  xy: 706, 1058
+  size: 246, 272
+  orig: 280, 280
+  offset: 17, 4
+  index: -1
+lattice_animation/wh_vfx_c_screen_03
+  rotate: false
+  xy: 954, 1058
+  size: 246, 272
+  orig: 280, 280
+  offset: 17, 4
+  index: -1
+lattice_animation/wh_vfx_c_screen_04
+  rotate: false
+  xy: 1202, 1058
+  size: 246, 272
+  orig: 280, 280
+  offset: 17, 4
+  index: -1
+lattice_animation/wh_vfx_c_screen_05
+  rotate: false
+  xy: 1450, 1058
+  size: 246, 272
+  orig: 280, 280
+  offset: 17, 4
+  index: -1
+lattice_animation/wh_vfx_c_screen_06
+  rotate: false
+  xy: 1698, 1058
+  size: 246, 272
+  orig: 280, 280
+  offset: 17, 4
+  index: -1
+lattice_animation/wh_vfx_c_screen_07
+  rotate: true
+  xy: 1, 1
+  size: 246, 272
+  orig: 280, 280
+  offset: 17, 4
+  index: -1
+lattice_animation/wh_vfx_c_screen_08
+  rotate: true
+  xy: 458, 810
+  size: 246, 272
+  orig: 280, 280
+  offset: 17, 4
+  index: -1
+lattice_animation/wh_vfx_c_screen_09
+  rotate: true
+  xy: 732, 810
+  size: 246, 272
+  orig: 280, 280
+  offset: 17, 4
+  index: -1
+lattice_animation/wh_vfx_c_screen_10
+  rotate: true
+  xy: 1006, 810
+  size: 246, 272
+  orig: 280, 280
+  offset: 17, 4
+  index: -1
+lattice_animation/wh_vfx_c_screen_11
+  rotate: true
+  xy: 1280, 810
+  size: 246, 272
+  orig: 280, 280
+  offset: 17, 4
+  index: -1
+lattice_animation/wh_vfx_c_screen_12
+  rotate: true
+  xy: 1554, 810
+  size: 246, 272
+  orig: 280, 280
+  offset: 17, 4
+  index: -1
+lattice_animation/wh_vfx_c_screen_13
+  rotate: false
+  xy: 353, 536
+  size: 246, 272
+  orig: 280, 280
+  offset: 17, 4
+  index: -1
+lattice_animation/wh_vfx_c_screen_14
+  rotate: false
+  xy: 601, 536
+  size: 246, 272
+  orig: 280, 280
+  offset: 17, 4
+  index: -1
+lattice_animation/wh_vfx_c_screen_15
+  rotate: false
+  xy: 849, 536
+  size: 246, 272
+  orig: 280, 280
+  offset: 17, 4
+  index: -1
+lattice_animation/wh_vfx_c_screen_16
+  rotate: false
+  xy: 1097, 536
+  size: 246, 272
+  orig: 280, 280
+  offset: 17, 4
+  index: -1
+lattice_animation/wh_vfx_c_screen_17
+  rotate: false
+  xy: 1345, 536
+  size: 246, 272
+  orig: 280, 280
+  offset: 17, 4
+  index: -1
+lattice_animation/wh_vfx_c_screen_18
+  rotate: false
+  xy: 1593, 536
+  size: 246, 272
+  orig: 280, 280
+  offset: 17, 4
+  index: -1
+lattice_animation/wh_vfx_c_screen_19
+  rotate: false
+  xy: 249, 249
+  size: 246, 272
+  orig: 280, 280
+  offset: 17, 4
+  index: -1
+lattice_animation/wh_vfx_c_screen_20
+  rotate: false
+  xy: 497, 262
+  size: 246, 272
+  orig: 280, 280
+  offset: 17, 4
+  index: -1
+lattice_animation/wh_vfx_c_screen_21
+  rotate: false
+  xy: 745, 262
+  size: 246, 272
+  orig: 280, 280
+  offset: 17, 4
+  index: -1
+lattice_animation/wh_vfx_c_screen_22
+  rotate: false
+  xy: 993, 262
+  size: 246, 272
+  orig: 280, 280
+  offset: 17, 4
+  index: -1
+lattice_animation/wh_vfx_c_screen_23
+  rotate: false
+  xy: 1241, 262
+  size: 246, 272
+  orig: 280, 280
+  offset: 17, 4
+  index: -1
+lattice_animation/wh_vfx_c_screen_24
+  rotate: false
+  xy: 1489, 262
+  size: 246, 272
+  orig: 280, 280
+  offset: 17, 4
+  index: -1
+lattice_animation/wh_vfx_c_screen_25
+  rotate: true
+  xy: 275, 1
+  size: 246, 272
+  orig: 280, 280
+  offset: 17, 4
+  index: -1
+lattice_animation/wh_vfx_c_screen_26
+  rotate: true
+  xy: 549, 14
+  size: 246, 272
+  orig: 280, 280
+  offset: 17, 4
+  index: -1
+lattice_animation/wh_vfx_c_screen_27
+  rotate: true
+  xy: 823, 14
+  size: 246, 272
+  orig: 280, 280
+  offset: 17, 4
+  index: -1
+lattice_animation/wh_vfx_c_screen_28
+  rotate: true
+  xy: 1097, 14
+  size: 246, 272
+  orig: 280, 280
+  offset: 17, 4
+  index: -1
+lattice_animation/wh_vfx_c_screen_29
+  rotate: true
+  xy: 1371, 14
+  size: 246, 272
+  orig: 280, 280
+  offset: 17, 4
+  index: -1
+lattice_animation/wh_vfx_c_screen_30
+  rotate: false
+  xy: 1737, 262
+  size: 246, 272
+  orig: 280, 280
+  offset: 17, 4
+  index: -1
+lattice_animation/wh_vfx_c_screen_31
+  rotate: true
+  xy: 1645, 14
+  size: 246, 272
+  orig: 280, 280
+  offset: 17, 4
+  index: -1
+sym_winlight/tw_vfx_d_screen
+  rotate: false
+  xy: 1841, 776
+  size: 140, 280
+  orig: 140, 280
+  offset: 0, 0
+  index: -1
+sym_winlight/wh_vfx_a_screen
+  rotate: false
+  xy: 1, 875
+  size: 455, 455
+  orig: 455, 455
+  offset: 0, 0
+  index: -1
+sym_winlight/wh_vfx_b_screen
+  rotate: false
+  xy: 1, 523
+  size: 350, 350
+  orig: 350, 350
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,398 @@
+
+freebg.jpg
+size: 2041,1973
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+freespin_scatter_vfx_a_screen
+  rotate: false
+  xy: 199, 1669
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+fs_add_animation/gfs_vfx_d_screen_00
+  rotate: false
+  xy: 1136, 1552
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+fs_add_animation/gfs_vfx_d_screen_01
+  rotate: false
+  xy: 1438, 1552
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+fs_add_animation/gfs_vfx_d_screen_02
+  rotate: false
+  xy: 1740, 1532
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+fs_add_animation/gfs_vfx_d_screen_03
+  rotate: false
+  xy: 1, 1367
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+fs_add_animation/gfs_vfx_d_screen_04
+  rotate: false
+  xy: 303, 1335
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+fs_add_animation/gfs_vfx_d_screen_05
+  rotate: false
+  xy: 605, 1305
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+fs_start_animation/bl_vfx_d_add
+  rotate: true
+  xy: 411, 1637
+  size: 227, 237
+  orig: 227, 237
+  offset: 0, 0
+  index: -1
+fs_start_animation/bl_vfx_d_screen
+  rotate: true
+  xy: 650, 1629
+  size: 227, 237
+  orig: 227, 237
+  offset: 0, 0
+  index: -1
+fs_start_animation/bl_vfx_h_add
+  rotate: true
+  xy: 907, 1226
+  size: 324, 375
+  orig: 324, 375
+  offset: 0, 0
+  index: -1
+fs_start_arrow_light/bl_vfx_g_add_00
+  rotate: true
+  xy: 69, 1929
+  size: 43, 104
+  orig: 343, 234
+  offset: 88, 64
+  index: -1
+fs_start_arrow_light/bl_vfx_g_add_01
+  rotate: true
+  xy: 246, 1905
+  size: 67, 110
+  orig: 343, 234
+  offset: 86, 60
+  index: -1
+fs_start_arrow_light/bl_vfx_g_add_02
+  rotate: true
+  xy: 358, 1881
+  size: 91, 116
+  orig: 343, 234
+  offset: 86, 58
+  index: -1
+fs_start_arrow_light/bl_vfx_g_add_03
+  rotate: true
+  xy: 693, 1859
+  size: 113, 118
+  orig: 343, 234
+  offset: 87, 57
+  index: -1
+fs_start_arrow_light/bl_vfx_g_add_04
+  rotate: false
+  xy: 1113, 1854
+  size: 137, 118
+  orig: 343, 234
+  offset: 86, 57
+  index: -1
+fs_start_arrow_light/bl_vfx_g_add_05
+  rotate: false
+  xy: 1252, 1854
+  size: 159, 118
+  orig: 343, 234
+  offset: 87, 57
+  index: -1
+fs_start_arrow_light/bl_vfx_g_add_06
+  rotate: false
+  xy: 1413, 1854
+  size: 167, 118
+  orig: 343, 234
+  offset: 88, 58
+  index: -1
+fs_start_arrow_light/bl_vfx_g_add_07
+  rotate: false
+  xy: 1582, 1854
+  size: 167, 118
+  orig: 343, 234
+  offset: 90, 58
+  index: -1
+fs_start_arrow_light/bl_vfx_g_add_08
+  rotate: false
+  xy: 950, 1856
+  size: 161, 116
+  orig: 343, 234
+  offset: 100, 58
+  index: -1
+fs_start_arrow_light/bl_vfx_g_add_09
+  rotate: false
+  xy: 813, 1858
+  size: 135, 114
+  orig: 343, 234
+  offset: 126, 60
+  index: -1
+fs_start_arrow_light/bl_vfx_g_add_10
+  rotate: false
+  xy: 578, 1866
+  size: 113, 106
+  orig: 343, 234
+  offset: 148, 62
+  index: -1
+fs_start_arrow_light/bl_vfx_g_add_11
+  rotate: true
+  xy: 476, 1879
+  size: 93, 100
+  orig: 343, 234
+  offset: 168, 67
+  index: -1
+fs_start_arrow_light/bl_vfx_g_add_12
+  rotate: false
+  xy: 175, 1910
+  size: 69, 62
+  orig: 343, 234
+  offset: 191, 86
+  index: -1
+fs_start_arrow_light/bl_vfx_g_add_13
+  rotate: false
+  xy: 24, 1938
+  size: 43, 34
+  orig: 343, 234
+  offset: 213, 100
+  index: -1
+fs_start_arrow_light/bl_vfx_g_add_14
+  rotate: false
+  xy: 1, 1958
+  size: 21, 14
+  orig: 343, 234
+  offset: 233, 110
+  index: -1
+fsbg_light/tw_vfx_e_add
+  rotate: false
+  xy: 889, 1607
+  size: 245, 245
+  orig: 245, 245
+  offset: 0, 0
+  index: -1
+fsbg_light_01/tw_vfx_d_screen_00
+  rotate: true
+  xy: 1284, 1226
+  size: 324, 447
+  orig: 324, 447
+  offset: 0, 0
+  index: -1
+fsbg_light_01/tw_vfx_d_screen_01
+  rotate: true
+  xy: 1, 1009
+  size: 324, 447
+  orig: 324, 447
+  offset: 0, 0
+  index: -1
+fsbg_light_01/tw_vfx_d_screen_02
+  rotate: true
+  xy: 450, 979
+  size: 324, 447
+  orig: 324, 447
+  offset: 0, 0
+  index: -1
+fsbg_light_01/tw_vfx_d_screen_03
+  rotate: true
+  xy: 899, 900
+  size: 324, 447
+  orig: 324, 447
+  offset: 0, 0
+  index: -1
+fsbg_light_01/tw_vfx_d_screen_04
+  rotate: true
+  xy: 1348, 900
+  size: 324, 447
+  orig: 324, 447
+  offset: 0, 0
+  index: -1
+fsbg_light_01/tw_vfx_d_screen_05
+  rotate: true
+  xy: 1, 683
+  size: 324, 447
+  orig: 324, 447
+  offset: 0, 0
+  index: -1
+fsbg_light_01/tw_vfx_d_screen_06
+  rotate: true
+  xy: 450, 653
+  size: 324, 447
+  orig: 324, 447
+  offset: 0, 0
+  index: -1
+fsbg_light_01/tw_vfx_d_screen_07
+  rotate: true
+  xy: 899, 574
+  size: 324, 447
+  orig: 324, 447
+  offset: 0, 0
+  index: -1
+fsbg_light_01/tw_vfx_d_screen_08
+  rotate: true
+  xy: 1348, 574
+  size: 324, 447
+  orig: 324, 447
+  offset: 0, 0
+  index: -1
+fsbg_light_01/tw_vfx_d_screen_09
+  rotate: true
+  xy: 1, 357
+  size: 324, 447
+  orig: 324, 447
+  offset: 0, 0
+  index: -1
+fsbg_light_01/tw_vfx_d_screen_10
+  rotate: true
+  xy: 450, 327
+  size: 324, 447
+  orig: 324, 447
+  offset: 0, 0
+  index: -1
+fsbg_light_01/tw_vfx_d_screen_11
+  rotate: true
+  xy: 899, 248
+  size: 324, 447
+  orig: 324, 447
+  offset: 0, 0
+  index: -1
+fsbg_light_01/tw_vfx_d_screen_12
+  rotate: true
+  xy: 1348, 248
+  size: 324, 447
+  orig: 324, 447
+  offset: 0, 0
+  index: -1
+fsbg_light_01/tw_vfx_d_screen_13
+  rotate: true
+  xy: 1, 31
+  size: 324, 447
+  orig: 324, 447
+  offset: 0, 0
+  index: -1
+fsbg_light_01/tw_vfx_d_screen_14
+  rotate: true
+  xy: 450, 1
+  size: 324, 447
+  orig: 324, 447
+  offset: 0, 0
+  index: -1
+glow/fx_wild_idle_01
+  rotate: false
+  xy: 1751, 1834
+  size: 138, 138
+  orig: 138, 138
+  offset: 0, 0
+  index: -1
+glow/s_scatter_block
+  rotate: true
+  xy: 1, 1737
+  size: 171, 196
+  orig: 300, 300
+  offset: 65, 52
+  index: -1
+glow/wild_glow
+  rotate: false
+  xy: 1891, 1834
+  size: 138, 138
+  orig: 138, 138
+  offset: 0, 0
+  index: -1
+
+freebg2.jpg
+size: 1964,838
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fsbg_light/tw_vfx_g_add
+  rotate: true
+  xy: 1261, 1
+  size: 510, 702
+  orig: 510, 702
+  offset: 0, 0
+  index: -1
+fsbg_light_01/tw_vfx_d_screen_15
+  rotate: true
+  xy: 1, 513
+  size: 324, 447
+  orig: 324, 447
+  offset: 0, 0
+  index: -1
+fsbg_light_01/tw_vfx_d_screen_16
+  rotate: true
+  xy: 450, 513
+  size: 324, 447
+  orig: 324, 447
+  offset: 0, 0
+  index: -1
+fsbg_light_01/tw_vfx_d_screen_17
+  rotate: true
+  xy: 899, 513
+  size: 324, 447
+  orig: 324, 447
+  offset: 0, 0
+  index: -1
+fsbg_light_01/tw_vfx_d_screen_18
+  rotate: true
+  xy: 1348, 513
+  size: 324, 447
+  orig: 324, 447
+  offset: 0, 0
+  index: -1
+glow/bw_base_021
+  rotate: true
+  xy: 1, 79
+  size: 432, 628
+  orig: 432, 662
+  offset: 0, 17
+  index: -1
+glow/bw_vfx_d_03
+  rotate: false
+  xy: 631, 5
+  size: 628, 506
+  orig: 628, 506
+  offset: 0, 0
+  index: -1
+
+
+
+freebg3.png
+size: 1979,1640
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fs_start_animation/bl_vfx_a_normal
+  rotate: true
+  xy: 1517, 883
+  size: 756, 461
+  orig: 756, 461
+  offset: 0, 0
+  index: -1
+fs_start_basemap/bl_vfx_b_normal
+  rotate: false
+  xy: 1, 1
+  size: 756, 1638
+  orig: 756, 1638
+  offset: 0, 0
+  index: -1
+fsbg_light/tw_vfx_a_normal
+  rotate: false
+  xy: 759, 1
+  size: 756, 1638
+  orig: 756, 1638
+  offset: 0, 0
+  index: -1
